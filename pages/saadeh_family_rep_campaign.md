@@ -73,8 +73,10 @@ This form will generate a strongly worded letter to the representative of your z
 </div>
 
 Learn more about the issue:
-- [https://www.youtube.com/watch?v=l4qz4qOF4KA](https://www.youtube.com/watch?v=l4qz4qOF4KA).
-- [https://www.fox2detroit.com/video/1376036](https://www.fox2detroit.com/video/1376036).
+- MSNBC: [https://www.youtube.com/watch?v=l4qz4qOF4KA](https://www.youtube.com/watch?v=l4qz4qOF4KA).
+- Fox2Detroit: [https://www.fox2detroit.com/video/1376036](https://www.fox2detroit.com/video/1376036).
+- USAToday: [https://www.usatoday.com/story/news/nation/2023/12/21/doctor-family-trapped-in-gaza-israel-hamas/71986453007/](https://www.usatoday.com/story/news/nation/2023/12/21/doctor-family-trapped-in-gaza-israel-hamas/71986453007/).
+- The Michigan Daily: [https://www.michigandaily.com/opinion/op-ed-there-are-wolverines-in-gaza-too/](https://www.michigandaily.com/opinion/op-ed-there-are-wolverines-in-gaza-too/).
 
 <div id="hiddenText" style="display: none;">
 
