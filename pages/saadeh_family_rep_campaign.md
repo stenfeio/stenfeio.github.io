@@ -21,7 +21,7 @@ permalink: /saadeh/
           const subject = "Constituent Demand - HELP DR. SAADEH'S FAMILY";
           const body = `ADDRESS:
 
-I am writing to urgently bring to your attention a matter of utmost importance that requires immediate action. I came across this report on Fox 2 Detroit, https://www.fox2detroit.com/video/1376036.
+I am writing to urgently bring to your attention a matter of utmost importance that requires immediate action. I came across this report on Fox 2 Detroit, https://www.youtube.com/watch?v=l4qz4qOF4KA.
 
 This is a horrific situation to be in. Dr. Yamaan Saadeh is a respected member of the Ann Arbor community and is currently embroiled in a harrowing situation as he endeavors to secure the safety and well-being of his family trapped in a conflict zone. Their lives are in peril, and swift intervention is crucial to prevent further tragedy.
 
@@ -73,10 +73,10 @@ This form will generate a strongly worded letter to the representative of your z
 </div>
 
 Learn more about the issue:
-- MSNBC: [https://www.youtube.com/watch?v=l4qz4qOF4KA](https://www.youtube.com/watch?v=l4qz4qOF4KA).
-- Fox2Detroit: [https://www.fox2detroit.com/video/1376036](https://www.fox2detroit.com/video/1376036).
-- USAToday: [https://www.usatoday.com/story/news/nation/2023/12/21/doctor-family-trapped-in-gaza-israel-hamas/71986453007/](https://www.usatoday.com/story/news/nation/2023/12/21/doctor-family-trapped-in-gaza-israel-hamas/71986453007/).
-- The Michigan Daily: [https://www.michigandaily.com/opinion/op-ed-there-are-wolverines-in-gaza-too/](https://www.michigandaily.com/opinion/op-ed-there-are-wolverines-in-gaza-too/).
+- **MSNBC:** [https://www.youtube.com/watch?v=l4qz4qOF4KA](https://www.youtube.com/watch?v=l4qz4qOF4KA).
+- **Fox2Detroit:** [https://www.fox2detroit.com/video/1376036](https://www.fox2detroit.com/video/1376036).
+- **USAToday:** [https://www.usatoday.com/story/news/nation/2023/12/21/doctor-family-trapped-in-gaza-israel-hamas/71986453007/](https://www.usatoday.com/story/news/nation/2023/12/21/doctor-family-trapped-in-gaza-israel-hamas/71986453007/).
+- **The Michigan Daily:** [https://www.michigandaily.com/opinion/op-ed-there-are-wolverines-in-gaza-too/](https://www.michigandaily.com/opinion/op-ed-there-are-wolverines-in-gaza-too/).
 
 <div id="hiddenText" style="display: none;">
 
