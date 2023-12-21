@@ -72,7 +72,9 @@ This form will generate a strongly worded letter to the representative of your z
   </form>
 </div>
 
-Learn more about the issue: [https://www.fox2detroit.com/video/1376036](https://www.fox2detroit.com/video/1376036).
+Learn more about the issue:
+- [https://www.youtube.com/watch?v=l4qz4qOF4KA](https://www.youtube.com/watch?v=l4qz4qOF4KA).
+- [https://www.fox2detroit.com/video/1376036](https://www.fox2detroit.com/video/1376036).
 
 <div id="hiddenText" style="display: none;">
 
